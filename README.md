@@ -6,6 +6,21 @@ The Cultural Travel Companion is a Chrome extension that helps travelers overcom
 -Cultural insights based on the user's location 
 -Simple and easy to use interface
 
+##Getting Started:
+1. Clone the Repository
+ '''bash
+ git clone https://github.com/LIO/cultural-travel-companion.git
+   '''
+2. Open Chrome and go to 'chrome://extensions/'
+3. Enable "Developer mode"
+4. Click "Load unpacked and select the 'cultural-travel-companion' folder
+
+#Technologies Used:
+-**HTML** for building the popup structure
+-**CSS3** for styling the interface
+-**JavaScript** for handling translation and itneraction logic
+-**Google Translate API** for text translation 
+   
 ## How to Use:
 -Input the text you want to translate.
 -Select the language to translate to.
@@ -15,6 +30,11 @@ The Cultural Travel Companion is a Chrome extension that helps travelers overcom
 -Translation API for language translation
 -Prompt API for cultural tips
 
+#Acknowledgements:
+-Thanks to Google for providing the Translation API 
+
 ##License 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
