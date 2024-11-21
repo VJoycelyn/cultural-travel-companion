@@ -9,7 +9,7 @@ The Cultural Travel Companion is a Chrome extension that helps travelers overcom
 ##Getting Started:
 1. Clone the Repository
  '''bash
- git clone C:\Users\LIO\cultural-travel-companion\
+ git clone https://github.com/VJoycelyn/cultural-travel-companion.git
    '''
 2. Open Chrome and go to 'chrome://extensions/'
 3. Enable "Developer mode"
